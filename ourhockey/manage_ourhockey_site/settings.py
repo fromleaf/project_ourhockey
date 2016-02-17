@@ -50,7 +50,7 @@ MIDDLEWARE_CLASSES = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ourhockey_manage.urls'
+ROOT_URLCONF = 'manage_ourhockey_site.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ourhockey_manage.wsgi.application'
+WSGI_APPLICATION = 'manage_ourhockey_site.wsgi.application'
 
 
 # Database
@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'ourhockey_manage.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'ourhockey_manage/db/db.sqlite3'),
+        'NAME': os.path.join(BASE_DIR, 'manage_ourhockey_site/db/db.sqlite3'),
     }
 }
 
