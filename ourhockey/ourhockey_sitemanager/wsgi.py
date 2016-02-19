@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "manage_ourhockey_site.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "ourhockey_sitemanager.settings")
 
 application = get_wsgi_application()

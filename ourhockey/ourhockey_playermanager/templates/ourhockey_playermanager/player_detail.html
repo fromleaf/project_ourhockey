@@ -1,0 +1,18 @@
+{% extends "base_players.html" %}
+
+{% block content %}
+
+<h1>{{ player.name }}</h1>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+{% csrf_token %}
+<label>{{ player.name }}</label></br>
+<label>{{ player.back_number }}</label></br>
+<label>{{ player.duty }}</label></br>
+<label>{{ player.position }}</label></br>
+<label>{{ player.memeber_level }}</label></br>
+<label>{{ player.member_state }}</label></br>
+
+
+{% endblock content %}
