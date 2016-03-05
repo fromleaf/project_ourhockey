@@ -1,0 +1,12 @@
+{% extends "base_player.html" %}
+
+{% block content %}
+	<h2>Player Management System</h2>
+	<ul>
+		{% for model_name in object_list %}
+			{% with "PlayerManager:"|add:model_name|lower as urlvar %}
+			<li><a href="{% url urlvar %}">{{ model_name }}</a></li>
+			{% endwith %}
+		{% endfor %}
+	</ul>
+{% endblock content %}

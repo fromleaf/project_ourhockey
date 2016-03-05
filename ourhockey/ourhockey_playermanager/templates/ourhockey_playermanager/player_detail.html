@@ -1,4 +1,4 @@
-{% extends "base_players.html" %}
+{% extends "base_player.html" %}
 
 {% block content %}
 
@@ -6,13 +6,18 @@
 
 {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
 
-{% csrf_token %}
-<label>{{ player.name }}</label></br>
-<label>{{ player.back_number }}</label></br>
-<label>{{ player.duty }}</label></br>
-<label>{{ player.position }}</label></br>
-<label>{{ player.memeber_level }}</label></br>
-<label>{{ player.member_state }}</label></br>
+<li>
+{% if player.profile_image %}
+{% load staticfiles %}
+	<img src="{% static player.profile_image %}" alt=""/>
+{% endif %}
+</li>
+<li><label>{{ player.name }}</label></br></li>
+<li><label>{{ player.back_number }}</label></br></li>
+<li><label>{{ player.duty }}</label></br></li>
+<li><label>{{ player.position }}</label></br></li>
+<li><label>{{ player.memeber_level }}</label></br></li>
+<li><label>{{ player.state }}</label></br></li>
 
 
 {% endblock content %}
