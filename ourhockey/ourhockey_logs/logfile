@@ -1,0 +1,334 @@
+[05/Mar/2016 19:34:55] DEBUG [ourhockey_playermanager.views:44] attend: 2
+[05/Mar/2016 19:34:55] DEBUG [ourhockey_playermanager.views:44] attend: 3
+[05/Mar/2016 19:34:55] DEBUG [ourhockey_playermanager.views:44] attend: 4
+[05/Mar/2016 19:43:58] DEBUG [ourhockey_playermanager.views:45] player_id: 2
+[05/Mar/2016 19:44:09] DEBUG [ourhockey_playermanager.views:45] player_id: 2
+[05/Mar/2016 19:44:09] DEBUG [ourhockey_playermanager.views:45] player_id: 3
+[05/Mar/2016 19:44:09] DEBUG [ourhockey_playermanager.views:45] player_id: 4
+[05/Mar/2016 19:47:06] DEBUG [ourhockey_playermanager.views:45] player_id: 2
+[05/Mar/2016 19:47:06] DEBUG [ourhockey_playermanager.views:45] player_id: 3
+[05/Mar/2016 19:47:06] DEBUG [ourhockey_playermanager.views:45] player_id: 4
+[05/Mar/2016 19:47:11] DEBUG [ourhockey_playermanager.views:45] player_id: 2
+[05/Mar/2016 19:47:11] DEBUG [ourhockey_playermanager.views:45] player_id: 4
+[05/Mar/2016 19:47:31] DEBUG [ourhockey_playermanager.views:45] player_id: 2
+[05/Mar/2016 19:47:31] DEBUG [ourhockey_playermanager.views:45] player_id: 4
+[05/Mar/2016 19:47:38] DEBUG [ourhockey_playermanager.views:45] player_id: 4
+[05/Mar/2016 19:47:45] DEBUG [ourhockey_playermanager.views:45] player_id: 3
+[05/Mar/2016 19:47:45] DEBUG [ourhockey_playermanager.views:45] player_id: 1
+[05/Mar/2016 19:47:45] DEBUG [ourhockey_playermanager.views:45] player_id: 4
+[05/Mar/2016 19:47:50] DEBUG [ourhockey_playermanager.views:45] player_id: 1
+[05/Mar/2016 19:47:50] DEBUG [ourhockey_playermanager.views:45] player_id: 4
+[05/Mar/2016 20:02:10] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:02:10] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:02:10] DEBUG [ourhockey_playermanager.views:59] old_attend_player attend is changed to False: 3
+[05/Mar/2016 20:02:10] DEBUG [ourhockey_playermanager.views:59] old_attend_player attend is changed to False: 4
+[05/Mar/2016 20:02:10] DEBUG [ourhockey_playermanager.views:63] update_attend() not form.is_valid()
+[05/Mar/2016 20:03:52] DEBUG [ourhockey_playermanager.views:47] player_id: 2
+[05/Mar/2016 20:03:52] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:03:52] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 2
+[05/Mar/2016 20:03:52] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 3
+[05/Mar/2016 20:03:52] DEBUG [ourhockey_playermanager.views:62] update_attend() not form.is_valid()
+[05/Mar/2016 20:06:10] DEBUG [ourhockey_playermanager.views:47] player_id: 2
+[05/Mar/2016 20:06:10] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:06:10] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 2
+[05/Mar/2016 20:06:10] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 3
+[05/Mar/2016 20:08:02] DEBUG [ourhockey_playermanager.views:47] player_id: 2
+[05/Mar/2016 20:08:02] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:08:02] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 2
+[05/Mar/2016 20:08:02] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 3
+[05/Mar/2016 20:08:15] DEBUG [ourhockey_playermanager.views:47] player_id: 2
+[05/Mar/2016 20:08:15] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:08:15] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 2
+[05/Mar/2016 20:08:15] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 3
+[05/Mar/2016 20:17:50] DEBUG [ourhockey_playermanager.views:47] player_id: 2
+[05/Mar/2016 20:17:50] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:17:50] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 2
+[05/Mar/2016 20:17:50] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:17:50] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 2
+[05/Mar/2016 20:17:50] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:47] player_id: 2
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 2
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 2
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:18:18] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:48] player_id: 2
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:48] player_id: 3
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:48] player_id: 4
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:55] old_attend_player.id: 2
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:55] old_attend_player.id: 3
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:55] old_attend_player.id: 4
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:58] new_attend_player.id: 2
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:58] new_attend_player.id: 3
+[05/Mar/2016 20:19:45] DEBUG [ourhockey_playermanager.views:58] new_attend_player.id: 4
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:48] player_id: 2
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:48] player_id: 3
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:48] player_id: 4
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:55] old_attend_player.id: 2
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:55] old_attend_player.id: 3
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:55] old_attend_player.id: 4
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:58] new_attend_player.id: 2
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:58] new_attend_player.id: 3
+[05/Mar/2016 20:21:04] DEBUG [ourhockey_playermanager.views:58] new_attend_player.id: 4
+[05/Mar/2016 20:22:13] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:22:13] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:22:13] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:22:13] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:22:13] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:22:13] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:47] player_id: 2
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 2
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 2
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:23:43] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:26:46] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:26:46] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:26:46] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:26:46] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:26:46] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:26:46] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 5
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 5
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:27:12] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:27:43] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:27:43] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:27:43] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:27:43] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:27:43] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 5
+[05/Mar/2016 20:27:43] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:27:43] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:27:56] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:27:56] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:27:56] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:27:56] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:27:56] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 5
+[05/Mar/2016 20:27:56] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:27:56] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 5
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 5
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:28:20] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 5
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 5
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:28:50] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 5
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 5
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:30:07] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:30:22] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:30:22] DEBUG [ourhockey_playermanager.views:47] player_id: 4
+[05/Mar/2016 20:30:22] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 3
+[05/Mar/2016 20:30:22] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 4
+[05/Mar/2016 20:30:22] DEBUG [ourhockey_playermanager.views:54] old_attend_player.id: 5
+[05/Mar/2016 20:30:22] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 3
+[05/Mar/2016 20:30:22] DEBUG [ourhockey_playermanager.views:57] new_attend_player.id: 4
+[05/Mar/2016 20:32:47] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:32:47] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:32:47] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 3
+[05/Mar/2016 20:32:47] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 4
+[05/Mar/2016 20:32:47] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 4
+[05/Mar/2016 20:32:47] DEBUG [ourhockey_playermanager.views:58] old_attend_player attend is changed to False: 5
+[05/Mar/2016 20:34:41] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:34:41] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:34:41] DEBUG [ourhockey_playermanager.views:54] old_attend_player 3
+[05/Mar/2016 20:34:41] DEBUG [ourhockey_playermanager.views:54] old_attend_player 5
+[05/Mar/2016 20:34:41] DEBUG [ourhockey_playermanager.views:56] new_attend_player 5
+[05/Mar/2016 20:34:41] DEBUG [ourhockey_playermanager.views:56] new_attend_player 3
+[05/Mar/2016 20:35:21] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:35:21] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:35:21] DEBUG [ourhockey_playermanager.views:54] old_attend_player 3
+[05/Mar/2016 20:35:21] DEBUG [ourhockey_playermanager.views:54] old_attend_player 5
+[05/Mar/2016 20:35:21] DEBUG [ourhockey_playermanager.views:56] new_attend_player 5
+[05/Mar/2016 20:35:21] DEBUG [ourhockey_playermanager.views:56] new_attend_player 3
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:47] player_id: 1
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:54] old_attend_player 1
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:54] old_attend_player 3
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:54] old_attend_player 5
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:56] new_attend_player 5
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:56] new_attend_player 3
+[05/Mar/2016 20:35:49] DEBUG [ourhockey_playermanager.views:56] new_attend_player 1
+[09/Mar/2016 21:10:24] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[09/Mar/2016 21:10:24] DEBUG [ourhockey_playermanager.views:47] player_id: 1
+[09/Mar/2016 21:10:24] DEBUG [ourhockey_playermanager.views:54] old_attend_player 1
+[09/Mar/2016 21:10:24] DEBUG [ourhockey_playermanager.views:54] old_attend_player 5
+[09/Mar/2016 21:10:24] DEBUG [ourhockey_playermanager.views:56] new_attend_player 5
+[09/Mar/2016 21:10:24] DEBUG [ourhockey_playermanager.views:56] new_attend_player 1
+[09/Mar/2016 21:20:16] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[09/Mar/2016 21:20:16] DEBUG [ourhockey_playermanager.views:47] player_id: 3
+[09/Mar/2016 21:20:16] DEBUG [ourhockey_playermanager.views:54] old_attend_player 3
+[09/Mar/2016 21:20:16] DEBUG [ourhockey_playermanager.views:54] old_attend_player 5
+[09/Mar/2016 21:20:16] DEBUG [ourhockey_playermanager.views:56] new_attend_player 5
+[09/Mar/2016 21:20:16] DEBUG [ourhockey_playermanager.views:56] new_attend_player 3
+[09/Mar/2016 21:21:57] DEBUG [ourhockey_playermanager.views:49] player_id: 5
+[09/Mar/2016 21:21:57] DEBUG [ourhockey_playermanager.views:49] player_id: 3
+[09/Mar/2016 21:21:57] DEBUG [ourhockey_playermanager.views:58] new_attend_player 5
+[09/Mar/2016 21:21:57] DEBUG [ourhockey_playermanager.views:58] new_attend_player 3
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:46] first old_attend_player 3
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:46] first old_attend_player 5
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:49] player_id: 5
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:49] player_id: 3
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:56] old_attend_player 3
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:56] old_attend_player 5
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:58] new_attend_player 5
+[09/Mar/2016 21:22:50] DEBUG [ourhockey_playermanager.views:58] new_attend_player 3
+[09/Mar/2016 21:25:11] DEBUG [ourhockey_playermanager.views:50] player_id: 5
+[09/Mar/2016 21:25:11] DEBUG [ourhockey_playermanager.views:50] player_id: 3
+[09/Mar/2016 21:25:11] DEBUG [ourhockey_playermanager.views:59] new_attend_player 5
+[09/Mar/2016 21:25:11] DEBUG [ourhockey_playermanager.views:59] new_attend_player 3
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:46] first old_attend_player 3
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:46] first old_attend_player 5
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:50] player_id: 5
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:50] player_id: 3
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:50] player_id: 1
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:57] old_attend_player 3
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:57] old_attend_player 5
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:59] new_attend_player 5
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:59] new_attend_player 3
+[09/Mar/2016 21:25:17] DEBUG [ourhockey_playermanager.views:59] new_attend_player 1
+[09/Mar/2016 21:30:13] DEBUG [ourhockey_playermanager.views:46] first old_attend_player 1
+[09/Mar/2016 21:30:13] DEBUG [ourhockey_playermanager.views:50] player_id: 5
+[09/Mar/2016 21:30:13] DEBUG [ourhockey_playermanager.views:50] player_id: 1
+[09/Mar/2016 21:30:13] DEBUG [ourhockey_playermanager.views:62] old_attend_player 1
+[09/Mar/2016 21:30:13] DEBUG [ourhockey_playermanager.views:64] new_attend_player 5
+[09/Mar/2016 21:30:13] DEBUG [ourhockey_playermanager.views:64] new_attend_player 1
+[09/Mar/2016 21:39:23] DEBUG [ourhockey_playermanager.views:46] player_id: 5
+[09/Mar/2016 21:39:23] DEBUG [ourhockey_playermanager.views:46] player_id: 1
+[09/Mar/2016 21:39:29] DEBUG [ourhockey_playermanager.views:46] player_id: 1
+[09/Mar/2016 21:47:21] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[09/Mar/2016 21:47:21] DEBUG [ourhockey_playermanager.views:64] new_attend_player_list is smaller than player_attend_list
+[09/Mar/2016 21:58:26] DEBUG [ourhockey_playermanager.views:47] player_id: 5
+[09/Mar/2016 21:58:26] DEBUG [ourhockey_playermanager.views:64] player_attend_list is different new_attend_player_list
+[09/Mar/2016 22:03:51] DEBUG [ourhockey_playermanager.views:47] new player_id: 1
+[09/Mar/2016 22:03:51] DEBUG [ourhockey_playermanager.views:64] player_attend_list is different new_attend_player_list
+[09/Mar/2016 22:04:11] DEBUG [ourhockey_playermanager.views:47] new player_id: 5
+[09/Mar/2016 22:04:11] DEBUG [ourhockey_playermanager.views:64] player_attend_list is different new_attend_player_list
+[09/Mar/2016 22:04:11] DEBUG [ourhockey_playermanager.views:66] player_attend.id: 1
+[09/Mar/2016 22:04:11] DEBUG [ourhockey_playermanager.views:66] player_attend.id: 5
+[09/Mar/2016 22:04:11] DEBUG [ourhockey_playermanager.views:68] new_player_attend.id: 5
+[09/Mar/2016 22:13:19] DEBUG [ourhockey_playermanager.views:47] new player_id: 1
+[09/Mar/2016 22:14:04] DEBUG [ourhockey_playermanager.views:47] new player_id: 1
+[09/Mar/2016 22:14:04] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:14:04] DEBUG [ourhockey_playermanager.views:66] player_attend.id: 1
+[09/Mar/2016 22:14:04] DEBUG [ourhockey_playermanager.views:66] player_attend.id: 5
+[09/Mar/2016 22:14:04] DEBUG [ourhockey_playermanager.views:68] new_player_attend.id: 1
+[09/Mar/2016 22:16:14] DEBUG [ourhockey_playermanager.views:47] new player_id: 1
+[09/Mar/2016 22:16:14] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:16:14] DEBUG [ourhockey_playermanager.views:66] player_attend.id: 1
+[09/Mar/2016 22:16:14] DEBUG [ourhockey_playermanager.views:66] player_attend.id: 5
+[09/Mar/2016 22:16:14] DEBUG [ourhockey_playermanager.views:68] new_player_attend.id: 1
+[09/Mar/2016 22:29:10] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[09/Mar/2016 22:29:10] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:30:51] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[09/Mar/2016 22:30:51] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:31:53] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:31:53] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:32:18] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:32:18] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:34:19] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:34:19] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:34:24] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:34:24] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:35:54] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:35:54] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:36:02] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:36:02] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:36:39] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:36:39] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:36:39] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[09/Mar/2016 22:36:45] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:36:45] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[09/Mar/2016 22:36:45] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:38:16] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:38:16] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:38:16] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[09/Mar/2016 22:38:21] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:38:21] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[09/Mar/2016 22:38:21] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:38:58] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:38:58] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:38:58] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:39:03] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:39:03] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:39:03] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:48:54] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:48:54] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:48:54] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:48:59] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:48:59] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:48:59] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:51:08] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:51:08] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:51:08] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:52:31] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:52:31] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:52:31] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[09/Mar/2016 22:52:43] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:52:43] DEBUG [ourhockey_playermanager.views:49] new player_id: 3
+[09/Mar/2016 22:52:43] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:52:50] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[09/Mar/2016 22:52:50] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[09/Mar/2016 22:52:50] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[12/Mar/2016 17:19:18] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[12/Mar/2016 17:19:18] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[12/Mar/2016 17:19:24] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[12/Mar/2016 17:19:24] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[12/Mar/2016 18:08:44] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[12/Mar/2016 18:08:44] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[12/Mar/2016 18:08:44] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[12/Mar/2016 18:08:53] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[12/Mar/2016 18:08:53] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[12/Mar/2016 18:08:53] DEBUG [ourhockey_playermanager.views:64] player_attend_list > new_attend_player_list
+[12/Mar/2016 18:41:06] DEBUG [ourhockey_playermanager.views:49] new player_id: 5
+[12/Mar/2016 18:41:06] DEBUG [ourhockey_playermanager.views:49] new player_id: 1
+[12/Mar/2016 18:41:06] DEBUG [ourhockey_playermanager.views:49] new player_id: 4
+[12/Mar/2016 18:41:28] DEBUG [ourhockey_playermanager.views:50] new player_id: 5
+[12/Mar/2016 18:41:28] DEBUG [ourhockey_playermanager.views:50] new player_id: 1
+[12/Mar/2016 18:41:28] DEBUG [ourhockey_playermanager.views:50] new player_id: 4
+[12/Mar/2016 18:41:34] DEBUG [ourhockey_playermanager.views:50] new player_id: 5
+[12/Mar/2016 18:41:34] DEBUG [ourhockey_playermanager.views:50] new player_id: 4
+[12/Mar/2016 18:41:34] DEBUG [ourhockey_playermanager.views:65] player_attend_list > new_attend_player_list
+[12/Mar/2016 18:41:34] DEBUG [ourhockey_playermanager.views:69] checked_player: 4
+[12/Mar/2016 18:41:34] DEBUG [ourhockey_playermanager.views:69] checked_player: 5
+[12/Mar/2016 19:05:30] DEBUG [ourhockey_playermanager.views:52] new player_id: 5
+[12/Mar/2016 19:05:30] DEBUG [ourhockey_playermanager.views:52] new player_id: 3
+[12/Mar/2016 19:05:30] DEBUG [ourhockey_playermanager.views:52] new player_id: 1
+[12/Mar/2016 19:05:30] DEBUG [ourhockey_playermanager.views:52] new player_id: 4
+[12/Mar/2016 19:05:35] DEBUG [ourhockey_playermanager.views:52] new player_id: 5
+[12/Mar/2016 19:05:35] DEBUG [ourhockey_playermanager.views:52] new player_id: 1
+[12/Mar/2016 19:05:35] DEBUG [ourhockey_playermanager.views:52] new player_id: 4
+[12/Mar/2016 19:05:39] DEBUG [ourhockey_playermanager.views:52] new player_id: 5
+[12/Mar/2016 19:05:39] DEBUG [ourhockey_playermanager.views:52] new player_id: 1
+[12/Mar/2016 19:05:39] DEBUG [ourhockey_playermanager.views:52] new player_id: 4
+[12/Mar/2016 19:05:45] DEBUG [ourhockey_playermanager.views:52] new player_id: 1
+[12/Mar/2016 19:05:45] DEBUG [ourhockey_playermanager.views:52] new player_id: 4

@@ -8,7 +8,7 @@
 	<form action="{% url 'playermanager:player_attend_list' %}" method="post">
 	{% csrf_token %}
 	{% for player in player_list %}
-		{% if player.attend == True %}
+		{% if player.attend %}
 			<input type="checkbox" name="attend" value="{{ player.id }}" checked="checked"/>
 		{% else %}
 			<input type="checkbox" name="attend" value="{{ player.id }}"/>
@@ -23,7 +23,7 @@
 	{% empty %}
 		<li>Sorry, no Player in this list.</li></br>
 	{% endfor %}
-	<input type="submit" value="Check"/>
+	<input type="submit" value="Attend"/>
 	</form>
 	</ul>
 {% else %}

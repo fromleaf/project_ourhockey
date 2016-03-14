@@ -78,10 +78,21 @@ WSGI_APPLICATION = 'ourhockey_sitemanager.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
 
+#     Using database in supported django
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'ourhockey_db/db.sqlite3'),
+#     }
+
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'ourhockey_db/db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'ourhockey_schema',
+        'USER': 'yoon',
+        'PASSWORD': 'Youn13@(',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
     }
 }
 
@@ -110,7 +121,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-#TIME_ZONE = 'UTC'
+# TIME_ZONE = 'UTC'
 TIME_ZONE = 'Asia/Seoul'
 
 USE_I18N = True
@@ -128,7 +139,7 @@ STATIC_ROOT = ''
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, ""),
-    #os.path.join(BASE_DIR, "photo/ourhockey_player/profiles"),
+    # os.path.join(BASE_DIR, "photo/ourhockey_player/profiles"),
 ]
 
 # LOGGING
@@ -150,7 +161,7 @@ LOGGING = {
         }
     },
     'loggers': {
-        'polls': {
+        'ourhockey_playermanager': {
             'handlers': ['file'],
             'level': 'DEBUG',
         },

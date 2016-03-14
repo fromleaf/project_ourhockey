@@ -1,0 +1,7 @@
+{% extends "base_player.html" %}
+
+<form action="" method=POST>
+	{% csrf_token %}
+	{{ form.as_p }}
+	<p><input type="submit" value="Insert Player" /></p>
+</form>
